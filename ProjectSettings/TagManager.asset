@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Objects
+  - Collectible
+  - FidgetToy
+  - LipStick
+  - NFLBall
+  - GameBoy
+  - Bikini
+  - Scooter
+  - Guitar
+  - Phone
+  - Sneakers
+  - HighHeels
+  - Rolex
+  - MonsterCard
+  - GemRing
+  - Btc
+  - 5
+  - 50
+  - 250
+  - 500
+  - 750
+  - 2500
+  - 5000
+  - 10000
+  - 12500
+  - 15000
+  - 20000
+  - 22500
+  - 25000
+  - 30000
+  - 35000
+  - 40000
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
